@@ -1,0 +1,13 @@
+h1{
+	position: absolute;
+	top: 40%;
+	width: 100%;
+	font-family: Helvetica;
+	font-size: 110;
+	text-align: center;
+}
+
+body{
+	background-color: #05c46b;
+	color: white;
+}
